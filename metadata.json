@@ -1,0 +1,5 @@
+{
+  "name": "AI Interview Simulator",
+  "description": "An AI-powered interview practice tool that analyzes your resume, conducts a mock interview via text or voice, and provides detailed feedback and scoring.",
+  "requestFramePermissions": ["microphone"]
+}
